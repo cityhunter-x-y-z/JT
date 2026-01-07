@@ -1,0 +1,67 @@
+Sheet Name: Job Tracker
+ID,Date Found,Company,Job Title,Job URL,Status,Priority,Applied Date,Follow-up Date,Hiring Manager,Email,Phone,Notes,Response Rate
+1,2026-01-07,Example Corp,Senior Product Designer,https://example.com/jobs/123,Researching,A,,,John Doe,john@example.com,,Great fit - they use Figma and focus on mobile-first. Recent Series B funding.,-
+
+Status Options: Researching | Applied | Followed Up | Phone Screen | Interview | Offer | Rejected | Not Interested
+Priority: A (Perfect fit) | B (Good fit) | C (Maybe)
+
+---
+
+Sheet Name: Companies Database
+Company,Website,LinkedIn,Design Team Lead,Email Pattern,Products,Funding Stage,Employee Count,Notes
+Example Corp,example.com,linkedin.com/company/example,Jane Smith,firstname@example.com,"Mobile app, Web platform",Series B,50-200,Design-focused culture. Check their Medium blog for design philosophy.
+
+---
+
+Sheet Name: Hiring Managers
+Name,Company,Title,LinkedIn URL,Email,Contacted Date,Response,Last Follow-up,Next Action,Notes
+John Doe,Example Corp,VP Design,linkedin.com/in/johndoe,john@example.com,2026-01-07,Pending,,Follow-up on 2026-01-14,Manages team of 8 designers. Ex-Google.
+
+Response Options: Pending | Responded | No Response | Auto-reply | Meeting Scheduled
+
+---
+
+Sheet Name: Email Templates
+Template Name,Subject Line,Body,Use Case,Variables Needed
+Cold Outreach,Product Designer interested in {company}'s {product},[See email_templates/cold_outreach.txt],First contact,company_name; hiring_manager_name; specific_product; specific_aspect; job_title; achievements; portfolio_url
+Follow-up,Re: Product Designer interested in {company},[See email_templates/follow_up.txt],5-7 days after initial,date; company_name; hiring_manager_name; specific_thing; new_detail
+Portfolio Share,Portfolio update - {your_name},[See email_templates/portfolio_share.txt],Sharing new work,hiring_manager_name; company_name; case_study_title; case_study_link; problem; approach; result
+
+---
+
+Sheet Name: Weekly Metrics
+Week Starting,Jobs Researched,Applications Sent,Direct Emails Sent,Responses Received,Phone Screens,Interviews,Offers,Rejections,Response Rate,Notes
+2026-01-06,0,0,0,0,0,0,0,0,0%,Setup week
+2026-01-13,15,8,5,0,0,0,0,0,0%,First week of outreach
+
+Formulas:
+Response Rate = (Responses Received / Applications Sent) * 100
+
+---
+
+Sheet Name: Application Sources
+Source,Applications,Responses,Response Rate,Interviews,Notes
+LinkedIn,0,0,0%,0,
+Direct Email,0,0,0%,0,
+Company Website,0,0,0%,0,
+Naukri.com,0,0,0%,0,
+AngelList,0,0,0%,0,
+Referral,0,0,0%,0,
+Other,0,0,0%,0,
+
+---
+
+Sheet Name: Target Companies (Bangalore)
+Company,Why Target,Status,Priority,Glassdoor Rating,Notes
+Swiggy,Great design culture. Growing team.,Not contacted,A,4.2,Check their design blog
+Razorpay,Fintech. Expanding design team.,Not contacted,A,4.3,Series E funded
+Flipkart,Large design org. Multiple openings.,Not contacted,B,3.9,Competitive but good for growth
+CRED,Premium design focus. Innovative.,Not contacted,A,4.1,High design bar
+Zerodha,Product-focused. Stable.,Not contacted,B,4.5,Remote-friendly
+Atlassian,Global company. Strong design.,Not contacted,A,4.4,Bangalore office
+Meesho,Tier 2/3 focus. Impactful work.,Not contacted,B,4.0,Fast growing
+PhonePe,Fintech. Large user base.,Not contacted,A,4.2,UPI leader
+Ola,Product variety. Multiple teams.,Not contacted,C,3.7,Mixed reviews
+Dunzo,Hyperlocal. Startup energy.,Not contacted,B,3.8,Check funding status
+
+Add 40+ more companies specific to your interests

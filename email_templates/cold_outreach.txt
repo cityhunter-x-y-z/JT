@@ -1,0 +1,44 @@
+Subject: Product Designer interested in [COMPANY_NAME]'s [SPECIFIC_PRODUCT]
+
+Hi [HIRING_MANAGER_NAME],
+
+I came across [COMPANY_NAME]'s [JOB_TITLE] role and was immediately drawn to [SPECIFIC_ASPECT - e.g., "your focus on building delightful user experiences for India's Tier 2/3 cities" or "the recent redesign of your checkout flow"].
+
+I'm a Product Designer based in Bangalore with [X years] of experience in [YOUR_SPECIALTY - e.g., "fintech UX" or "B2B SaaS products"]. What excites me about [COMPANY_NAME] is [SPECIFIC_REASON - mention something from their product, blog, or recent work].
+
+In my current/previous role at [CURRENT_COMPANY], I:
+• [ACHIEVEMENT_1 - with metric if possible]
+• [ACHIEVEMENT_2 - relevant to their needs]
+• [ACHIEVEMENT_3 - shows impact]
+
+I've put together a case study that might be relevant: [LINK_TO_SPECIFIC_PROJECT] - it shows how I [RELEVANT_SKILL/PROCESS].
+
+I'd love to chat about how my experience in [RELEVANT_AREA] could contribute to [THEIR_GOAL/CHALLENGE]. Are you the right person to discuss this, or could you point me to who I should reach out to?
+
+My portfolio: [PORTFOLIO_URL]
+
+Thanks for your time,
+[YOUR_NAME]
+[PHONE_NUMBER]
+[LINKEDIN_URL]
+
+---
+
+USAGE NOTES:
+- Replace ALL [VARIABLES] with specific, researched information
+- Keep email under 150 words
+- Show you've done research (specific product/feature mentions)
+- Include ONE relevant case study link
+- Clear call-to-action
+- Send during business hours (10 AM - 4 PM IST)
+- Follow up after 5-7 days if no response
+
+PERSONALIZATION CHECKLIST:
+□ Mentioned specific product/feature they work on
+□ Referenced recent company news/achievement
+□ Highlighted relevant experience (not generic)
+□ Included metric/achievement
+□ Linked ONE relevant case study
+□ Checked spelling of name and company
+□ Verified email address is correct
+□ Proofread for typos

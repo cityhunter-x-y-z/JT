@@ -1,0 +1,41 @@
+Subject: Portfolio update - [YOUR_NAME]
+
+Hi [HIRING_MANAGER_NAME],
+
+I recently completed a case study that I thought might be relevant to [COMPANY_NAME]'s work in [AREA]:
+
+[CASE_STUDY_TITLE]
+[CASE_STUDY_LINK]
+
+Quick summary:
+• Challenge: [PROBLEM_STATEMENT]
+• Approach: [YOUR_PROCESS]
+• Impact: [MEASURABLE_RESULT]
+
+This project involved [SKILL_RELEVANT_TO_THEM], which seems aligned with what [COMPANY_NAME] is building.
+
+Still interested in opportunities to contribute to [THEIR_PRODUCT/TEAM]. Let me know if you'd like to discuss.
+
+Best,
+[YOUR_NAME]
+[PORTFOLIO_URL]
+
+---
+
+USAGE NOTES:
+- Use this template when you have NEW portfolio work relevant to a company
+- Only send if you've previously contacted them OR they know you
+- Don't spam - only send if genuinely relevant
+- Keep it super short
+- Lead with value (your work), not ask
+
+---
+
+ALTERNATIVE: LinkedIn Post Strategy
+
+Instead of emailing portfolio updates, consider:
+1. Post case study on LinkedIn
+2. Tag relevant companies (not people)
+3. Use hashtags: #ProductDesign #UXDesign #Bangalore
+4. Hiring managers will see it organically
+5. More professional than unsolicited portfolio spam
